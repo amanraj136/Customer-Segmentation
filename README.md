@@ -2,9 +2,7 @@
 
 
 
-🔗 \*\*Live Demo:\*\*  
-
-\[!\[Streamlit App](https://static.streamlit.io/badges/streamlit\_badge\_black\_white.svg)](https://customer-segmentation-kzd5ejdp5lv2epdtjfrgv6.streamlit.app/)
+🔗 \*\*Live Demo:\*\*  \[!\[Streamlit App](https://static.streamlit.io/badges/streamlit\_badge\_black\_white.svg)](https://customer-segmentation-kzd5ejdp5lv2epdtjfrgv6.streamlit.app/)
 
 ---
 
@@ -22,7 +20,7 @@
 
 
 
-
+---
 
 
 
