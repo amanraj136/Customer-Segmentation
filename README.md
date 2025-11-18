@@ -104,8 +104,8 @@ These insights help businesses tailor campaigns, promotions, and product recomme
 	models/PCA.pkl
 	models/KMeans.pkl
 4. Start the Streamlit app:
-	Option A: Double-Click `app.bat` to launch the app in your browser.
-	Option B: `streamlit run apps/Home.py` in the terminal.
+	- Option A: Double-Click `app.bat` to launch the app in your browser.
+	- Option B: ```bash `streamlit run apps/Home.py` ``` in the terminal.
 
 ---
 
