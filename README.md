@@ -176,7 +176,7 @@ These insights help businesses tailor campaigns, promotions, and product recomme
 This project is licensed under the **MIT License**.  
 You are free to use, modify, and distribute this software for both personal and commercial purposes.
 
-See the full license in the \[LICENSE](LICENSE.txt) file.
+See the full license in the [LICENSE](LICENSE) file.
 
 ---
 
