@@ -1,3 +1,4 @@
+streamlit
 numpy
 pandas
 matplotlib
@@ -5,6 +6,5 @@ seaborn
 scikit-learn
 yellowbrick
 joblib
-streamlit
 plotly
 Pillow
