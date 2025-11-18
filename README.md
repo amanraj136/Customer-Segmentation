@@ -120,9 +120,9 @@ These insights help businesses tailor campaigns, promotions, and product recomme
 	- `Cluster_Insights.py` — analysis & visualizations
 	- `Predict_Segment.py` — prediction interface
 - **`models/`**
- 	- `Scaler.pkl`
- 	- `PCA.pkl`
- 	- `KMeans.pkl`
+	- `Scaler.pkl`
+	- `PCA.pkl`
+	- `KMeans.pkl`
 	- `Label_Encoder.pkl`
 	- `Agglomerative.pkl`
 
