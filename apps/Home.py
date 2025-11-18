@@ -139,7 +139,6 @@ def get_project_root():
 ROOT = get_project_root()
 IMG_PATH = os.path.join(ROOT, "figures", "3D_PCA_Clusters.png")
 
-# st.write("Debug path:", IMG_PATH)  # optional
 img = Image.open(IMG_PATH)
 img = img.resize((900, 900))
 
