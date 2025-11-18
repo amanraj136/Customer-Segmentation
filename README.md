@@ -123,8 +123,8 @@ These insights help businesses tailor campaigns, promotions, and product recomme
  	- `Scaler.pkl`
  	- `PCA.pkl`
  	- `KMeans.pkl`
- 	- `Agglomerative.pkl`
 	- `Label_Encoder.pkl`
+	- `Agglomerative.pkl`
 
 - **`figures/`** - Contains the figures of PCA Visualization, Cluster Plots, Category Preference charts, etc.
 - **`dataset/`** — use `narketing_campaign.csv` inside the dataset folder.
