@@ -98,6 +98,7 @@ These insights help businesses tailor campaigns, promotions, and product recomme
 2. Install dependencies:
   ```bash
   pip install -r requirements.txt
+  ---
 3. Ensure the trained model files are available in:
 	models/Scaler.pkl
 	models/PCA.pkl
