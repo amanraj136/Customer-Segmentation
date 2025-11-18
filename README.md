@@ -107,7 +107,7 @@ These insights help businesses tailor campaigns, promotions, and product recomme
 	- Option A: Double-Click `app.bat` to launch the app in your browser.
 	- Option B: In the terminal run
 	```bash 
-	`streamlit run apps/Home.py` 
+	streamlit run apps/Home.py
 	```
 
 ---
