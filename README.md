@@ -8,20 +8,6 @@
 
 
 
-!\[License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
-
-
-
-<p align="center">
-
-&nbsp; <img src="https://img.shields.io/badge/License-MIT-yellow.svg" />
-
-</p>
-
-
-
----
-
 
 
 \## Overview
